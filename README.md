@@ -1,5 +1,14 @@
 # 💫 About Me:
-Education: Computer Science student at Addis Ababa University<br><br>Frontend Skills: Graduate of ALX Pro Frontend Program, experienced in building responsive web apps, and self-taught in various frontend technologies<br><br>Backend Learning: Currently exploring backend development to become a full-stack developer<br><br>Experience: Intern at SkyHub, contributing to real-world projects<br><br>Passion: Writing clean code, learning new technologies, and solving real-world problems
+
+Computer Science student at Addis Ababa University
+
+ Internships at NileAgency, NAS, and currently at SkyHub
+
+ I’m currently learning backend development to become a full-stack developer
+
+ Frontend Skills: Graduate of ALX Pro Frontend Program, experienced in building responsive web apps, and self-taught in various frontend technologies
+ 
+I’m always open to collaborating on interesting and impactful projects
 
 
 ## 🌐 Socials:
